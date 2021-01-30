@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "src": "./src",
+    "dotenv": "https://deno.land/x/dotenv/mod.ts",
+    "flags": "https://deno.land/std@0.85.0/flags/mod.ts",
+    "assertions": "https://deno.land/std@0.85.0/testing/asserts.ts"
+  }
+}
